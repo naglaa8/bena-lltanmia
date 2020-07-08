@@ -212,7 +212,7 @@ header span.open{font-size:30px;cursor:pointer;display: none;}
 
 #reservationcon{
   display: inline-block;
-  width: 250%;
+  width: 260%;
   height: 60px;
   margin-top: 5px;
   position: relative;
@@ -222,10 +222,10 @@ header span.open{font-size:30px;cursor:pointer;display: none;}
 
 #reservation{
   display: inline-block;
-  width: 250%;
+  width: 260%;
   height: 60px;
   direction: rtl;
- font-size: 30px;
+ font-size: 26px;
  position:absolute;
  overflow-x: hidden;
  right: 100%;
@@ -252,7 +252,7 @@ header span.open{font-size:30px;cursor:pointer;display: none;}
 
 @keyframes mywalk {
  0%,50%,75%{ }
- 100%{transform: translateX(4000px); }
+ 100%{transform: translateX(3800px); }
 }
 
 
