@@ -227,6 +227,7 @@ header span.open{font-size:30px;cursor:pointer;display: none;}
   direction: rtl;
  font-size: 30px;
  position:absolute;
+ overflow-x: hidden;
  right: 1950px;
  /* left:500px; */
  transition: all 1s linear;
@@ -240,7 +241,7 @@ header span.open{font-size:30px;cursor:pointer;display: none;}
   color: #fff;
   padding: 10px 20px;
   float: right;
-  margin: 0  120px;
+  margin: 0  3%;
   word-spacing: 5px;
   text-shadow: 5px 5px 5px  black;
 
@@ -264,7 +265,7 @@ section{
   margin: 5px 0;
   font-size: 25px;
   text-align: center;
-  /* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); */
+
 }
 h1{
   padding: 60px;
@@ -366,11 +367,9 @@ div.nampro p{
 .sectionone div{
   margin-top:40px;
   height: 390px;
-
-  /* background-image: linear-gradient(#00BFFF,#fff); */
 }
-.sectionone h1{
-  width: 450px;
+.sectionone h3{
+  width: 50%;
   padding:20px;
   margin: 30px auto;
   border-bottom: 3px solid orange;
@@ -385,21 +384,20 @@ div.nampro p{
 
 .sectiontwo div.main{
   margin:5px;
-  height: 390px;
+  height: 380px;
   background-image: linear-gradient(to right,#00BFFF,#00f);
 }
 .sectiontwo h1{
-  font-size: 50px;
   color: #fff;
   text-shadow: 5px 5px 5px  black;
 }
  .button{
- padding: 10px;
+ padding: 9px;
  border: none;
  border-radius: 20px;
  cursor: pointer;
  outline: none;
- font-size: 25px;
+ font-size: 20px;
  box-shadow: 0px 6px #999;
  transition: all 0.2s;
 
@@ -412,7 +410,7 @@ div.nampro p{
 .sectiontwo div#container{
   display: flex;
   width: 100%;
-  height: 400px;
+  height: 410px;
   margin: 5px;
   justify-content:space-around;
   align-items: center;
@@ -420,7 +418,7 @@ div.nampro p{
 }
 .progect{
   width: 30%;
-  height: 350px;
+  height: 360px;
   border: 1px solid #aaa;
   box-shadow: 1px 1px 5px  gray;
 
@@ -437,8 +435,7 @@ div.progect img{
 
 article.proarticle {
   background-color: rgba(0,0,0,0.7);
-  margin: 3px;
-  margin-top: 0px;
+  margin: 0 7px;
   font-size: 15px;
   text-align:justify;
   padding: 5px;
@@ -469,7 +466,7 @@ fieldset {
 /* footer */
 
 section.footer{
-    height:200px;
+    height:150px;
     /* background-image: linear-gradient(#2F4F4F,#fff); */
     background-color:#2F4F4F;
     perspective: 200px;
@@ -497,7 +494,7 @@ section.footer{
 }
 .footer div{
 float: right;
-margin: 10px;
+margin: 2%;
 text-align: right;
 }
 .footer ul{
@@ -506,7 +503,7 @@ text-align: right;
 }
 .footer  div ul li{
   padding: 5px;
-  margin: 20px;
+  margin: 15px;
   float: right;
   cursor: pointer;
   transition: all 0.5s;
@@ -562,6 +559,6 @@ header span.open{display: inline;}
 .dropdown-content{position: relative;
 top: 0px;width: 100%; left: 0px;}
 .searchinput{font-size: 2.5vw;}
-#reservation{width: 250%;}
-#reservationcon{width: 250%;}
+#reservation{width: 250%; overflow-x: hidden;}
+#reservationcon{width: 250%;  overflow-x: hidden;}
 }
