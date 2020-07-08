@@ -212,7 +212,7 @@ header span.open{font-size:30px;cursor:pointer;display: none;}
 
 #reservationcon{
   display: inline-block;
-  width: 240%;
+  width: 250%;
   height: 60px;
   margin-top: 5px;
   position: relative;
@@ -222,7 +222,7 @@ header span.open{font-size:30px;cursor:pointer;display: none;}
 
 #reservation{
   display: inline-block;
-  width: 240%;
+  width: 250%;
   height: 60px;
   direction: rtl;
  font-size: 30px;
