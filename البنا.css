@@ -578,4 +578,6 @@ header span.open{display: inline;}
 top: 0px;width: 100%; left: 0px;}
 .searchinput{font-size: 2.5vw;}
 article.proarticle{font-size: 2.6vw;  height: 28%;}
+  .sectionone div{height: 500px};
+.sectionone h3{font-size: 0.83em};
 }
