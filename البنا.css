@@ -365,10 +365,10 @@ div.nampro p{
 
 
 /* section one */
-
+.sectionone{border: 1px solid red; }
 .sectionone div{
   margin-top:40px;
-  height: 420px;
+  height: 450px;
 }
 .sectionone h3{
   width: 50%;
