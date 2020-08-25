@@ -453,7 +453,7 @@ div.progect img{
 article.proarticle {
   background-color: rgba(0,0,0,0.7);
   width: 96%;
-  height: 35%;
+  height: 33%;
   margin: 0 7px;
   font-size: 1.2vw;
   text-align:center;
@@ -552,15 +552,15 @@ text-align: right;
 
 
 @media screen and (max-width: 810px) {
-  section.footer{height: 650px;}
+  section.footer{height: 700px;}
   div.progect{
     width: 90%;
   }
   section.sectiontwo{
-      height: 1700px;
+      height: 1900px;
   }
   .sectiontwo div#container{
-    height: 1300px;
+    height: 1400px;
   }
   header nav{font-size: 16px;}
 }
