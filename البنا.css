@@ -373,7 +373,7 @@ div.nampro p{
 .sectionone h3{
   width: 50%;
   padding:1%;
-  margin: 1% auto;
+  margin: 2% auto;
   border-bottom: 3px solid orange;
 }
 
@@ -557,7 +557,7 @@ text-align: right;
     width: 90%;
   }
   section.sectiontwo{
-      height: 1900px;
+      height: 2000px;
   }
   .sectiontwo div#container{
     height: 1400px;
