@@ -365,7 +365,7 @@ div.nampro p{
 
 
 /* section one */
-.sectionone{border: 1px solid red; }
+
 .sectionone div{
   margin-top:40px;
   height: 450px;
@@ -381,12 +381,12 @@ div.nampro p{
 
 
 .sectiontwo{
-  height:1000px;
+  height:1100px;
 }
 
 .sectiontwo div.main{
   margin:5px;
-  height: 450px;
+  height: 470px;
   background-image: linear-gradient(to right,#00BFFF,#00f);
 }
 .sectiontwo h1{
@@ -581,6 +581,6 @@ article.proarticle{font-size: 2.6vw;  height: 28%;}
   .sectionone div{height: 500px};
 .sectionone h3{font-size: 0.63em};
   .sectiontwo h1{font-size: 0.73em};
-  .sectionone{height:1000px;};
+  .sectionone{height:1200px;};
 
 }
