@@ -386,7 +386,7 @@ div.nampro p{
 
 .sectiontwo div.main{
   margin:5px;
-  height: 400px;
+  height: 450px;
   background-image: linear-gradient(to right,#00BFFF,#00f);
 }
 .sectiontwo h1{
@@ -581,6 +581,6 @@ article.proarticle{font-size: 2.6vw;  height: 28%;}
   .sectionone div{height: 500px};
 .sectionone h3{font-size: 0.63em};
   .sectiontwo h1{font-size: 0.83em};
-  .sectionone{height: 600px;};
+  .sectionone{height:800px;};
 
 }
