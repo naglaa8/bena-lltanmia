@@ -365,6 +365,7 @@ div.nampro p{
 
 
 /* section one */
+.sectionone{height: 600px;}
 
 .sectionone div{
   margin-top:40px;
@@ -581,6 +582,6 @@ article.proarticle{font-size: 2.6vw;  height: 28%;}
   .sectionone div{height: 500px};
 .sectionone h3{font-size: 0.63em};
   .sectiontwo h1{font-size: 0.73em};
-  .sectionone{height:1200px;};
+  .sectionone{height:1300px;};
 
 }
