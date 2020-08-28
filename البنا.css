@@ -167,7 +167,6 @@ header span.open{font-size:30px;cursor:pointer;display: none;}
   right: 0;
   background-color: #111;
   overflow-x: hidden;
-  transition: 0.5s;
   padding-top: 60px;
   text-align: center;
 }
